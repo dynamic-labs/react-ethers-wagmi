@@ -1,5 +1,5 @@
 {
-  "name": "react-18-ethers-wagmi",
+  "name": "@dynamic-labs/react-18-ethers-wagmi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
